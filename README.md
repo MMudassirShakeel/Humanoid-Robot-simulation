@@ -1,9 +1,12 @@
 # Humanoid-Robot-simulation
 Humanoid Robot Simulation project 
 1. Environment setting
-Hardware: All results are run in core i5 10th Gen. Software: Matlab R2021a
+   
+Hardware: All results are run in core i5 10th Gen. 
 
-2. Result:
+Software: Matlab R2021a
+
+3. Result:
 I am able to simulate a simple walking humanoid robot, wich simulate the sneak movement.
 
 
