@@ -14,3 +14,6 @@ Steps to run the code
       
 Read more about this project at 
 https://engrprogrammer.com/humanoid-robots-unleashing-rofl-bots-with-matlab-magic/
+
+
+![Humanoid robot matlab](https://github.com/Muhandisbro/Humanoid-Robot-simulation/assets/130207362/5d8ef979-f644-47fa-90a6-d59d00563b3a)
