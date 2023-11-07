@@ -10,7 +10,9 @@ The primary objective of this project is to examine the movement of human joints
   1.2. 	Research Methods
 
 This project is conducted through the following methods:
+
 •	Researching academic equations for forward kinematics and inverse kinematics.
+
 •	Performing simulations using MATLAB software.
 
 2. Environment setting
