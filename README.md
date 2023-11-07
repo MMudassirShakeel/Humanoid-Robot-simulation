@@ -3,11 +3,11 @@ CHAPTER 1: INTRODUCTION
 
 This project is about programming a humanoid robot with 6 degrees of freedom (DOF) in the arm, 6 DOF in the leg, and 2 DOF in the neck, utilizing the MATLAB platform. The study encompasses various aspects including kinematics (forward and inverse), gait generation, velocity control, path planning, and trajectory generation. Throughout the project, different algorithms and techniques are implemented and evaluated to achieve precise and efficient movements of the robot. The outcomes of this research contribute to the progress of humanoid robot programming and support the development of intelligent and capable humanoid robots for diverse applications.
 
-1.1	Aim of Research
+  1.1.	Aim of Research
 
 The primary objective of this project is to examine the movement of human joints and understand their correlation with the body during motion. From this understanding, the project aims to derive displacement matrices that can be used to simulate human movement in MATLAB.
 
-1.2	Research Methods
+  1.2. 	Research Methods
 
 This project is conducted through the following methods:
 •	Researching academic equations for forward kinematics and inverse kinematics.
