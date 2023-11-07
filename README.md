@@ -6,8 +6,8 @@ Hardware: All results are run in core i5 10th Gen.
 
 Software: Matlab R2021a
 
-3. Result:
-I am able to simulate a simple walking humanoid robot, wich simulate the sneak movement.
+2. Result:
+I have the capability to create a simulation of a basic walking humanoid robot that can accurately replicate the subtle and stealthy movements of sneaking.
 
 
 Steps to run the code
