@@ -15,12 +15,14 @@ This project is conducted through the following methods:
 
 2. Environment setting
    
-    2.1. Hardware: All results are run in core i5 10th Gen. 
+    2.1. Hardware: All results are run in core i5 10th Gen.
+   
     2.2. Software: Matlab R2021a
 
 3. Steps to run the code
 
     3.1. make sure all the files should be in same directory
+   
     3.2. run robot.m file to animate the humanoid robot
 
 
@@ -29,7 +31,6 @@ This project is conducted through the following methods:
 4. Result:
    
 I have the capability to create a simulation of a basic walking humanoid robot that can accurately replicate the subtle and stealthy movements of sneaking.
-
    
 Read more about this project at 
 https://engrprogrammer.com/humanoid-robots-unleashing-rofl-bots-with-matlab-magic/
