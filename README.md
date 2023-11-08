@@ -1,6 +1,7 @@
 # Humanoid-Robot-simulation
 
-This repository has been submitted as a solution to the Simulation-Based Design of Humanoid Robots project(this: https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Simulation-Based Design of Humanoid Robots), part of the MATLAB and Simulink Challenge Project Hub.(this https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
+This repository has been submitted as a solution to the Simulation-Based Design of Humanoid Robots project
+(this: https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Simulation-Based Design of Humanoid Robots), part of the MATLAB and Simulink Challenge Project Hub.(this https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
 
 CHAPTER 1: INTRODUCTION
 
