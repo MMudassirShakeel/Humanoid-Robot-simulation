@@ -1,4 +1,5 @@
 # Humanoid-Robot-simulation
+his repository has been submitted as a solution to the Simulation-Based Design of Humanoid Robots project, part of the MATLAB and Simulink Challenge Project Hub.
 CHAPTER 1: INTRODUCTION
 
 This project is about programming a humanoid robot with 6 degrees of freedom (DOF) in the arm, 6 DOF in the leg, and 2 DOF in the neck, utilizing the MATLAB platform. The study encompasses various aspects including kinematics (forward and inverse), gait generation, velocity control, path planning, and trajectory generation. Throughout the project, different algorithms and techniques are implemented and evaluated to achieve precise and efficient movements of the robot. The outcomes of this research contribute to the progress of humanoid robot programming and support the development of intelligent and capable humanoid robots for diverse applications.
