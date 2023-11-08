@@ -28,7 +28,7 @@ This project is conducted through the following methods:
     3.2. run robot.m file to animate the humanoid robot
 
 
-![Humanoid robot matlab](https://github.com/Muhandisbro/Humanoid-Robot-simulation/assets/130207362/5d8ef979-f644-47fa-90a6-d59d00563b3a)
+![Humanoid robot matlab](https://github.com/MMudassirShakeel/Humanoid-Robot-simulation/assets/112872954/e18b6e9b-467f-4cf3-88e2-76fe48b0ae3f)
 
 
 4. Result:
