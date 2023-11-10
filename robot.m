@@ -1,10 +1,26 @@
-%Humanoid Robot MATLAB Simulation
-%Engr Mudassir
-%+923096078248
-%mrengineer294@gmail.com
-%Im Mechatronics Engineer and do projects for students and researchers,if
-%you need any help in assignment, quiz, dissertation and research papers
-%then you can contact me, Thanks!
+% Explanation about working of Code
+% 1. banchan Function
+% This function is responsible for creating a rectangular shape or limb by calling another function called vedt. It defines the position and size of the rectangle by specifying coordinates for its corners.
+% 
+% 2. eulerXYZ Function
+% This function transforms Euler angles into a rotation matrix. Euler angles represent rotations around the X, Y, and Z axes. The eulerXYZ function combines these rotations to create a matrix that represents the orientation in 3D space.
+% 
+% 3. Than Function
+% The purpose of this function is to contribute to the drawing of a 3D shape. It likely defines a specific part of the character or object being rendered.
+% 
+% 4. vedau Function
+% This function is responsible for drawing a 3D shape resembling a rotated cylinder. It calculates the vertices and faces of the shape based on input parameters such as position, orientation, radius, and height.
+% 
+% 5. veline Function
+% The veline function draws a straight line in 3D space between two given points. Additionally, it updates two variables (w and p) based on the length and squared length of the line, respectively.
+% 
+% 6. veTru Function
+% This function draws a 3D shape resembling a truncated cone or frustum. It calculates the vertices and faces of the shape based on input parameters, including the position and orientation of the cone.
+% 
+% 7. Animation Loop(robot.m)
+% The main section of the code is an animation loop that simulates the movement of a Humanoid robot. The character has moving legs, arms, neck, and head. The loop iterates over frames, updating the Humanoid robot's position and drawing the corresponding body parts. The Humanoid robot's movement includes both left and right motions.
+% 
+% Overall, the code is a modular system for rendering a dynamic 3D character or object with moving limbs, and it employs different functions to draw specific body parts and handle transformations. The animation loop orchestrates these functions to create a visually dynamic representation of the Humanoid robot's movement.
 w=0;
 p=0;
 j=0;
