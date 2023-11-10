@@ -66,7 +66,7 @@ Overall, the code is a modular system for rendering a dynamic 3D character or ob
 ![Humanoid robot matlab](https://github.com/MMudassirShakeel/Humanoid-Robot-simulation/assets/112872954/e18b6e9b-467f-4cf3-88e2-76fe48b0ae3f)
 
 
-4. Result:
+5. Result:
    
 I have the capability to create a simulation of a basic walking humanoid robot that can accurately replicate the subtle and stealthy movements of sneaking.
    
