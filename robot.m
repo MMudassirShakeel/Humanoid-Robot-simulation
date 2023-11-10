@@ -17,7 +17,7 @@
 % 6. veTru Function
 % This function draws a 3D shape resembling a truncated cone or frustum. It calculates the vertices and faces of the shape based on input parameters, including the position and orientation of the cone.
 % 
-% 7. Animation Loop(robot.m)
+% 7. Animation Loop(Humanoid_robot.m)
 % The main section of the code is an animation loop that simulates the movement of a Humanoid robot. The character has moving legs, arms, neck, and head. The loop iterates over frames, updating the Humanoid robot's position and drawing the corresponding body parts. The Humanoid robot's movement includes both left and right motions.
 % 
 % Overall, the code is a modular system for rendering a dynamic 3D character or object with moving limbs, and it employs different functions to draw specific body parts and handle transformations. The animation loop orchestrates these functions to create a visually dynamic representation of the Humanoid robot's movement.
