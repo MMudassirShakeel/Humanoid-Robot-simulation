@@ -62,11 +62,23 @@ The main section of the code is an animation loop that simulates the movement of
 
 Overall, the code is a modular system for rendering a dynamic 3D character or object with moving limbs, and it employs different functions to draw specific body parts and handle transformations. The animation loop orchestrates these functions to create a visually dynamic representation of the Humanoid robot's movement.
 
+5. Kinematics and Dynamics of system
+
+ 5.1. Kinematics:
+ 
+Kinematics is the branch of mechanics that describes the motion of objects without considering the forces causing the motion. In this humanoid simulation, kinematics is reflected in the smooth and controlled movement of the articulated limbs and torso. Each limb segment is carefully positioned and oriented using geometric transformations, particularly rotations represented by Euler angles. The eulerXYZ function plays a key role in converting these angles into rotation matrices, determining the spatial orientation of the limbs. The veline, vedau, Than, and veTru functions contribute to the kinematic representation by visualizing trajectories and shapes in 3D space. The coordinated movement of these segments creates a lifelike simulation of the humanoid figure.
+
+ 5.2. Dynamics:
+ 
+Dynamics, on the other hand, considers the forces and torques that cause motion. In this simulation, dynamics is indirectly represented through the updating of displacement (w) and potential energy (p). The veline, vedau, Than, and veTru functions contribute to the dynamic aspect by not only visualizing the structure but also updating these physical parameters based on the simulated movements. The dynamic nature of the system becomes apparent as the humanoid undergoes changes in position and orientation. These dynamic updates provide a quantitative understanding of the energy changes and displacements occurring within the simulated mechanical structure.
+
+In summary, the provided code encapsulates both kinematics and dynamics by visually representing the orchestrated movements of a humanoid figure and simultaneously updating displacement and potential energy. The intricate interplay between these aspects results in a comprehensive simulation of a dynamic mechanical system.
+
 
 ![Humanoid robot matlab](https://github.com/MMudassirShakeel/Humanoid-Robot-simulation/assets/112872954/e18b6e9b-467f-4cf3-88e2-76fe48b0ae3f)
 
 
-5. Result:
+6. Result:
    
 I have the capability to create a simulation of a basic walking humanoid robot that can accurately replicate the subtle and stealthy movements of sneaking.
    
